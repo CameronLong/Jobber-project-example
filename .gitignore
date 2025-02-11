@@ -1,0 +1,15 @@
+
+.env
+*.key
+node_modules
+.DS_Store
+jobber_api_docs
+ansible
+big-ugly-tarball-test.md
+docker-compose-buildanew.yml
+docker-compose-pullbuilt.yml
+docker-compose.yml
+docker.md
+infrastructure-setup-tasks
+server-example.env
+sample_client_hub.jpg
